@@ -14,7 +14,7 @@
 &nbsp;&nbsp;			room 212G, SGH Warsaw School of Economics, al. Niepodległości 162 (main building)
 
 
-<b> Installation instructions can be found at <a href="1_Basics/">here</a>!!!</b>
+<b><font color=red> Installation instructions can be found <a href="1_Basics/">HERE</a>!!!</font></b>
 
 Data analysis has become one of the core processes in virtually any professional activity. The collection of data becomes easier and less expensive, so we have ample access to it.
 
