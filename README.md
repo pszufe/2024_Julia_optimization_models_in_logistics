@@ -3,10 +3,10 @@
 
 **Dates:** March 16, 2024
 Hours:
-	9:00-10:30
-	10:40-12:10
-	12:50-14:20
-	14:30-16:00
+	9:00-10:30<br/>
+	10:40-12:10<br/>
+	12:50-14:20<br/>
+	14:30-16:00<br/>
 
 **Location**:
 	room 212G, SGH Warsaw School of Economics, al. Niepodległości 162 (main building)
@@ -62,3 +62,7 @@ What we assume is a basic knowledge of data science tools (like Python or R) and
 
 
 </table>
+
+This course has been supported by the Polish  National Agency for Academic Exchange under  the Strategic Partnerships programme, grant  number BPI/PST/2021/1/00069/U/00001.
+
+![img](nawalogo.png)
