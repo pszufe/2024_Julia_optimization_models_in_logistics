@@ -21,7 +21,7 @@ Julia is a new Open Source language designed for science and data analysis. With
         ```
         git clone https://github.com/pszufe/2024_Julia_optimization_models_in_logistics.git
         ```
-        or you can download the entire repository from GitHub by clicking the green button `Code => Download ZIP`. If you download the repository you need to unzip it.
+        or you can download the entire repository from GitHub by clicking the link [here](https://github.com/pszufe/2024_Julia_optimization_models_in_logistics/archive/refs/heads/main.zip). If you download the repository you need to unzip it.
 
     2. Change the directory to where `Project.toml` and `Manifest.toml` files are located
         ```
@@ -80,3 +80,8 @@ Julia is a new Open Source language designed for science and data analysis. With
 2. The Julia Express - A concise Julia language introductory manual for programmers, https://github.com/bkamins/The-Julia-Express/
 
 3. B. Kaminski: Julia for Data Analysis, Manning, 2023, https://www.manning.com/books/julia-for-data-analysis
+
+
+This course has been supported by the Polish  National Agency for Academic Exchange under  the Strategic Partnerships programme, grant  number BPI/PST/2021/1/00069/U/00001.
+
+![img](nawalogo.png)
