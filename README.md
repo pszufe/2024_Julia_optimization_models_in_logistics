@@ -2,11 +2,11 @@
 # Programming optimization models in logistics – use case scenarios
 
 **Dates:** March 16, 2024
-Hours:
-	9:00-10:30<br/>
-	10:40-12:10<br/>
-	12:50-14:20<br/>
-	14:30-16:00<br/>
+Hours:<br>
+&nbsp;&nbsp;		9:00-10:30<br/>
+&nbsp;&nbsp;		10:40-12:10<br/>
+&nbsp;&nbsp;		12:50-14:20<br/>
+&nbsp;&nbsp;		14:30-16:00<br/>
 
 **Location**:
 	room 212G, SGH Warsaw School of Economics, al. Niepodległości 162 (main building)
