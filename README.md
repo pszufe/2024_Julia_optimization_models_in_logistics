@@ -4,7 +4,7 @@
 **Date:**<br/>
 &nbsp;&nbsp;		March 16, 2024
 
-***Hours:**<br>
+**Hours:**<br>
 &nbsp;&nbsp;		9:00-10:30<br/>
 &nbsp;&nbsp;		10:40-12:10<br/>
 &nbsp;&nbsp;		12:50-14:20<br/>
